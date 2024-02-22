@@ -10,7 +10,7 @@ rain = [[0,0,0,0,0],
 BIG = 3 #max=9 min=0
 SMALL = 3 #max=9-BIG min=0
 TIME = 300 #min
-SPEED = 5 #max=len(rain[len(rain)-1]) min=0
+SPEED = 2 #max=len(rain[len(rain)-1]) min=0
 
 #変数定義
 a = 0
